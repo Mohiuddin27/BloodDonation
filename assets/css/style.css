@@ -1,0 +1,122 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background:#fff9f9;
+    font-family:'Poppins', sans-serif;
+}
+
+
+/* header-start */
+.header{
+	background-color: #fff!important;
+}
+.header img{
+	width:60px;
+}
+.header a{
+	color:#8E110F;
+	font-weight: 700;
+}
+
+.collapse ul li a{
+	color:#8E110F;
+	font-size:20px;
+}
+.collapse ul li a:hover{
+	color:#f04d4a;
+	
+}
+/* header-end */
+
+/* hero-start */
+.hero{
+	background:url("../../media/header.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color:white;
+}
+.pa-2{
+	color:rgb(109, 105, 105);
+}
+.pa-3 span{
+	width:25%;
+	display: inline-block;
+	border:2px solid white;
+}
+.form-group{
+	float:left;
+	margin-left:30px;
+	
+}
+.form-group:focus{
+	border:none;
+}
+.form-group .se1{
+	padding:15px 60px!important;
+	border-radius: 10px;
+	border:0;
+	
+}
+
+.form-group .se2{
+	padding:15px 60px!important;
+	border-radius: 10px;
+	border:0;
+}
+.btn{
+	
+margin-left:200px;
+color:white;
+background-color:#f04d4a;
+margin-bottom:30px;
+}
+
+/* hero-end */
+/* donate-start */
+.donate{
+	background-color:#F04D4A;
+	color:white;
+}
+/* donate-end */
+/* cards-start */
+.card{
+	border-radius: 20px;
+}
+.cards img{
+	width:180px;
+	display:block;
+	margin:0 auto;
+}
+
+
+/* cards-end */
+/* contact-start */
+.contact{
+	background-color:rgba(39, 24, 78, 0.904);
+}
+.contact h3{
+	color:white;
+}
+.contact span{
+	display: inline-block;
+	width:100px;
+	border:2px solid white;
+}
+.contact .fab.fa-facebook-square{
+	color: #fff;
+	font-size:30px;
+	
+}
+.contact .fab.fa-youtube{
+	color: #fff;
+	font-size:30px;
+}
+.cont .fas.fa-phone-alt ,.fas.fa-envelope{
+	color:white;
+	font-size:20px;
+}
+
+
+/* contact-end */

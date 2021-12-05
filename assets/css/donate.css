@@ -1,0 +1,147 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background:#fff9f9;
+    font-family:'Poppins', sans-serif;
+}
+
+
+/* header-start */
+.header{
+	background-color: #fff!important;
+}
+.header img{
+	width:60px;
+}
+.header a{
+	color:#8E110F;
+	font-weight: 700;
+}
+
+.collapse ul li a{
+	color:#8E110F;
+	font-size:20px;
+}
+.collapse ul li a:hover{
+	color:#f04d4a;
+	
+}
+/* header-end */
+
+
+/* contact-start */
+.contact{
+	background-color:rgba(39, 24, 78, 0.904);
+	margin-top:0px;
+}
+.contact h3{
+	color:white;
+}
+.contact span{
+	display: inline-block;
+	width:100px;
+	border:2px solid white;
+}
+.contact .fab.fa-facebook-square{
+	color: #fff;
+	font-size:30px;
+	
+}
+.contact .fab.fa-youtube{
+	color: #fff;
+	font-size:30px;
+}
+.cont .fas.fa-phone-alt ,.fas.fa-envelope{
+	color:white;
+	font-size:20px;
+}
+
+
+/* contact-end */
+
+
+/* donor-start */
+.donor{
+	background-color:#f04d4a;
+	color:white;
+	
+}
+.donor span{
+	display:block;
+	margin:0 auto;
+	width:140px;
+	border:2px solid white;
+	text-align: center;
+	justify-content: center;
+}
+
+/* donor-end */
+
+/* table-start */
+
+
+
+/* table-end */
+/* form-start */
+.form .form-group{
+	float:left;
+	margin-left:10px;
+	
+}
+.form .form-group .se1{
+	padding:15px 60px!important;
+	border-radius: 10px;
+	border:0;
+	
+}
+
+.form .form-group .se2{
+	padding:15px 60px!important;
+	border-radius: 10px;
+	border:0;
+}
+.form .btn{
+	
+	margin-top:50px;
+	color:white;
+	margin-left:10px;
+
+	
+	}
+
+/* form-end */
+
+.body{
+	background-color: rgba(214, 214, 214, 0.89);
+	
+}
+/* update-start */
+.update{
+	display: grid;
+	grid-template-columns: 15% 85%;
+	
+}
+.partone{
+	background-color: #fff;
+	color:#f04d4a;
+}
+.partone .h5o{
+	background-color: #f04d4a;
+}
+.partone a{
+	color:#f04d4a;
+	text-align: center;
+	display:block;
+	margin:0 auto;
+}
+.partone .h5o a{
+	color:white;
+	text-align: center;
+}
+.two-one,.two-two,.two-three{
+	margin-left:250px;
+
+}
+/* update-end */
